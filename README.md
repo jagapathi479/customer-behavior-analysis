@@ -89,7 +89,7 @@ Insights section summarizing business takeaways.
 
 ⚙️ How to Run
 1. Clone this Repository
-git clone https://github.com/yourusername/data-analytics-project.git
+git clone https://github.com/jagapathi479/data-analytics-project.git
 cd data-analytics-project
 
 2. Install Required Libraries
